@@ -11,10 +11,8 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-//const char* ssid = "IoT-Demo";
-//const char* password =  "iotdemo8080";
-const char* ssid = "TREP_4G";
-const char* password =  "#randika2048";
+const char* ssid = "IoT-Demo";
+const char* password =  "iotdemo8080";
 //const char* mqttServer = "raspberrypi.local";
 const char* mqttServer = "192.168.8.128";
 
