@@ -1,3 +1,10 @@
+![](https://img.shields.io/github/issues/tharinduRE/IoT-Door-Lock)
+![](https://img.shields.io/github/forks/tharinduRE/IoT-Door-Lock)
+![](https://img.shields.io/github/stars/tharinduRE/IoT-Door-Lock)
+![](https://img.shields.io/github/license/tharinduRE/IoT-Door-Lock)
+![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FtharinduRE%2FIoT-Door-Lock)
+
+
 # IoT-Door-Lock
 IoT powered door lock using Arduino and ESP8266
 
